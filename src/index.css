@@ -6,3 +6,7 @@ html {
   width: 100vw;
   overflow: hidden;
 }
+
+#loadappbtn {
+  display: none;
+}

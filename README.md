@@ -2,10 +2,10 @@
 Repo for quickly getting some boilerplate Elm project setup out of the way
 
 ## What you have to do
-- `elm init`
-	- Install any elm dependencies
+- Install any elm dependencies
 - `chmod +x scripts/*.sh`
-- `rm .git`
+- `rm -rf .git`
+		- `git init`
 - Get coding!
 
 
